@@ -19,6 +19,9 @@ Roam research(이하 Roam으로 표기)는 내가 처음 써본 백링크 노트
 
 1. 터미널에서 'git clone' 입력하여 해당 파이썬 코드 다운로드
 
+<p align="center">
+  <img width="460" height="300" src="assets/2022-08-08_1.png">
+</p>
 
 ![이미지1](assets/2022-08-08_1.png)
 
