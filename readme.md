@@ -31,7 +31,7 @@ Roam research(이하 Roam으로 표기)는 내가 처음 써본 백링크 노트
 </p>
 
 
-3. 터미널에서 'python3 down' 입력
+3. 터미널에서 'python3 downloadfirebase.py' 입력
 
 <p align="center">
   <img width="460" height="300" src="assets/2022-08-08_3.png">
